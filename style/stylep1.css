@@ -1,0 +1,79 @@
+p{
+    font-family: Arial,roboto;
+    margin: 0;
+}
+.container-part-1-1{
+    width: 349px;
+    height: 275px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.part-1-1{
+    margin-left: 12px;
+    margin-top: 15px;
+}
+.who{
+    font-size: 19px;
+    font-weight: bold;
+}
+.cont-d-1-p{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 9px;
+    margin-top: 8px;
+}
+.cont-d-1{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.sawir-magacisa{
+    margin-left: 11px;
+}
+.espn-e{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.espn-w{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.gmail{
+    font-size: 14px;
+    color: rgb(96,96,96);
+}
+.check-list-2-1{
+    margin-left: 5px;
+    margin-top: -16px;
+}
+.tick{
+    height: 18px;
+}
+.follow-btn{
+    margin-right: 11px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top:8px ;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-family: Arial,roboto;
+    font-weight: bold;
+}
+.part-1-1-2{
+    margin-top: 18px;
+    margin-left: 12px;
+}
+.show-1{
+    font-size: 16.3px;
+    color: rgb(19, 195, 254);;
+}

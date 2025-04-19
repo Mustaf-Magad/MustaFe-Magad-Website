@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding-bottom: 3000px;
+}
+
+        
+.bar-chart {
+    display: flex;
+    align-items: flex-end;
+    height: 16px;
+    width: 16px;
+    margin-bottom: 8px;
+}
+.bar {
+    width: 2px;
+    background-color: #5e5e5e;
+    margin: 0 1px;
+}
+.bar:nth-child(1) {
+    height: 8px;
+}
+.bar:nth-child(2) {
+    height: 16px;
+}
+.bar:nth-child(3) {
+    height: 5px;
+}
+.bar:nth-child(4) {
+    height: 11px;
+}

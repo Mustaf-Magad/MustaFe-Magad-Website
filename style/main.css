@@ -1,0 +1,308 @@
+main{
+    position: absolute;
+    left: 185px;
+    top: 70px;
+    z-index: 100;
+    font-family: Arial,roboto;
+    
+}
+
+.container-modal{
+    width: 592px;
+    background-color:white;
+     height: 115px;
+      border-right-width: 1px;
+      border-right-color: rgb(239, 235, 235);
+      border-right-style: solid;
+      border-bottom-width: 1px;
+      border-bottom-color: rgb(239, 235, 235);
+      border-bottom-style: solid;
+      border-left: none ;
+}
+.modal-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -350px;
+    margin-top: -10px;
+}
+.picture{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.title{
+    margin-left: 12px;
+}
+.happy{
+    font-size: 19.7px;
+    color: rgb(96,96,96);
+}
+.modal-2{
+    margin-left: 40px;
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.more-images{
+    display: flex;
+    align-items: center;
+   
+}
+.icon-tweet{
+    height: 17.4px;
+    margin-left: 25px;
+    font-weight: bold;
+}
+.modal-2-1{
+    margin-right: 15px;
+}
+.post{
+    background-color:rgb(19, 195, 254);
+    color: white;
+    border: none;
+    padding-top:8px ;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-family: Arial,roboto;
+}
+/* container-modal-2*/
+.container-modal-2{
+    width: 592px;
+    background-color:white;
+     border-right-width: 1px;
+    border-right-color: rgb(239, 235, 235);
+      border-right-style: solid;
+      border-left: none ;
+      border-bottom: 1px solid rgb(239, 235, 235);
+      height: 109px;
+}
+.box-11{
+   display: flex;
+   align-items: center;
+   margin-top: -3px;
+   margin-left: -8px;
+   border-top: 1px solid rgb(240, 244, 244);
+}
+.picture-2{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.check-list{
+    height: 18px;
+}
+.full-stop{
+    height: 12px;
+}
+.profile-img{
+    margin-left: 18px;
+    margin-right: 8px;
+}
+.name{
+    margin-right:5px ;
+}
+.musk{
+    font-size: 15.5px;
+    font-family: Arial,roboto;
+    font-weight: bold;
+}
+.twitter-icon{
+    margin-left: 6px;
+}
+.check-list{
+    height: 15.5px;
+}
+.tag-email{
+    margin-left: 6px;
+}
+.At{
+    font-size: 14.8px;
+    color: rgb(96,96,96);
+    font-family: Arial,roboto;
+}
+.dot{
+    margin-left: 3px;
+}
+.date{
+    margin-left: 2px;
+}
+.jun{
+    font-size: 14.8px;
+    font-family: Arial,roboto;
+    color: rgb(96,96,96);
+}
+.dot-3{
+height: 12px;
+}
+.dots{
+    float: right;
+    margin-left: 230px;
+    margin-bottom: 10px;
+}
+.box-1-1{
+    margin-left: 58px;
+    margin-bottom:-10px ;
+    margin-top: -15px;
+}
+.our{
+    font-size: 14.9px;
+    color: rgb(96,96,96);
+}
+.box-1-2{
+    margin-left: 34px;
+}
+.box-1-2-1{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 26px;
+    margin-left: -11px;
+}
+.messages{
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+.chat{
+    height: 19px;
+    margin-right: 4px;
+}
+.views{
+    font-size: 13px;
+    color: rgb(96,96,96);
+}
+.repost{
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+.reply{
+    height: 17px;
+}
+.views-reply{
+    margin-left: 6px;
+    font-size: 15px;
+    color: rgb(96,96,96);
+}
+.lover{
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+.love{
+    height: 17px;
+}
+.views-love{
+    margin-left: 6px;
+    font-size: 15px;
+    color: rgb(96,96,96);
+}
+.analytic{
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+.views-M{
+    font-size: 15px;
+    color: rgb(96,96,96);
+    margin-left: 4px;
+}
+.save{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.save-ins{
+    height: 17px;
+}
+.upload{
+  margin-left: 19px;
+}
+.upload-pic{
+    height: 17px;
+}
+/* container-modal-3*/
+.container-modal-3{
+    width: 592px;
+    border-right: 1px solid rgb(239, 235, 235);
+    height: 655px;
+    border-bottom: 1px solid rgb(239,235,235);
+}
+.container-1{
+    display: flex;
+   align-items: center;
+   margin-top: -4px;
+   margin-left: 13px;
+ 
+}
+.check-list-fabrizio{
+    height: 16px;
+}
+.box-1-1-fabrizio{
+    margin-top: -20px;
+    margin-bottom: 13px;
+    margin-left: 61px;
+}
+.fabrizio-title{
+    margin-left: 8px;
+}
+.dot-fabrizio{
+    margin-left: 4px;
+}
+.Musk-f{
+    font-size: 14.8px;
+    font-weight: bold;
+    font-family: Arial,roboto;
+}
+.dots-f{
+    margin-left: 103px;
+    float: right;
+    
+}
+.container-2{
+    margin-bottom: 8px;
+}
+.image-william{
+    margin-left: 60px;
+}
+.william-pic{
+    width: 508px;
+    height: 510px;
+    border-radius: 18px;
+}
+.box-fabrizio{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content:space-around;
+    margin-left: 29.5px;
+}
+/* container-modal-4*/
+.container-modal-4{
+    width: 592px;
+    border-right: 1px solid rgb(239, 235, 235);
+    height: 636px;
+    border-bottom: 1px solid rgb(239,235,235);
+}
+.dots-frank{
+    margin-left: 199px;
+}
+.box-1-1-frank{
+    margin-left:60px ;
+    margin-top: -25px;
+    margin-bottom: 10px;
+}
+.video{
+    border-radius: 18px;
+}
+
+

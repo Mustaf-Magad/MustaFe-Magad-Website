@@ -1,0 +1,89 @@
+.side-bar{
+    position: fixed;
+    width: 165px;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    border-right-width: 15px;
+    border-right-color: rgb(174, 166, 166);
+    border-right-style: solid;
+}
+.sidebar-link{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    height: 54px;
+    margin-right: 20px;
+}
+.icon-heights{
+    height: 29px;
+}
+.icon-heights-hom3{
+  height: 30px;
+}
+.icon-heights-search{
+    height: 26px;
+}
+.icon-heights-bell{
+    height: 26px;
+}
+.icon-heights-slash{
+    height: 23px;
+}
+.icon-heights-email{
+    height: 26px;
+}
+.icon-heights-users{
+    height: 26px;
+}
+.icon-heights-user-1{
+    height: 26px;
+}
+.icon-heights-more{
+    height: 26px;;
+}
+.icon-heights-faether{
+    height: 24px;
+}
+.feather-xxl{
+    height: 20px;
+    margin-right: -7px;
+    margin-top: -8px;
+    margin-left: 7px;
+    margin-bottom: 12px;
+}
+.btn{
+    background-color:red;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    margin-right: -10px;
+}
+.plus-sign{
+    margin-top: 7px;
+    margin-bottom: -4px;
+    margin-left: -9px;
+    height: 20px;
+}
+.notify{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.count{
+    background-color:rgb(8, 166, 219);
+    color: white;
+    position: absolute;
+    top: -8px;
+    right: -4px;
+    font-size: 11px;
+    font-family: Arial,roboto;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 10px;
+}

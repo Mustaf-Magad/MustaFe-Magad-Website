@@ -1,0 +1,159 @@
+.right-bar-2 {
+    position:absolute;
+    top: 70px;
+    right: 0;
+    height: 58px;
+    width: 350px;
+    margin-right: 105px;
+    background-color: white;
+    z-index: 100;
+}
+.container-right-bar-2{
+    margin-top: -5px;
+    width:349px;
+    height: 930px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 15px;
+}
+p{
+    font-size: Arial,sans-serif;
+}
+.container-trend{
+    margin-left: 14px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.Trend{
+    font-size: 21px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-sports{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 14px;
+    margin-top: -13px;
+    margin-bottom: 26px;
+}
+.sport-trend{
+    margin-bottom: 3px;
+    font-size: 14px;
+    color: rgb(140, 140, 140);
+    font-family: Arial,roboto;
+}
+
+.chilwell{
+margin-top: 0;
+margin-bottom: 3px;
+font-size: 16px;
+font-weight: bolder;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.post-view-n{
+font-family: Arial,roboto;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 14px;
+color: rgb(140,140,140);
+}
+.container-dots{
+    margin-right: 15px;
+    margin-top: -14px;
+}
+.dot-3-right{
+    height: 14px;
+}
+.show-more{
+    font-size: 16.3px;
+    font-family:  Arial, sans-serif;
+    color: rgb(19, 195, 254);
+}
+/* part 3 */
+
+.container-right-bar-3{
+    margin-top: 10px;
+    width:349px ;
+    height: 275px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 15px;
+    
+}
+.container-sports-B{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 14px;
+    margin-top: -13px;
+    margin-bottom: 20px;
+}
+.container-sports-B-1{
+    display: flex;
+    align-items: center;
+
+    margin-top: 10px;
+}
+.container-sawir{
+    margin-right: 11px;
+}
+.sawir-frank{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.sawir-title{
+    margin-top: -16px;
+}
+.espn{
+    margin-bottom: 4px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.espn-2{
+    margin-top: 0;
+}
+.sawir-check{
+    margin-top: -16px;
+}
+.sawir-check-Gray{
+    margin-top: -16px;
+    margin-left: 4px;
+}
+.sawir-check-tyler{
+    margin-left: -20px;
+    margin-top: -16px;
+}
+.div-container-btn{
+    margin-right: 10px;
+}
+.btn-follow{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top:8px ;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-family: Arial,roboto;
+    font-weight: bold;
+}
+.pragraph-container{
+    margin-top: 16px;
+    margin-left: 10px;
+}
+.meta-twitter{
+    margin-top: 10px;
+    margin-bottom: 3px;
+    font-size: 14px;
+    color: rgb(140, 140, 140);
+    line-height: 20px;
+}
+.a-pragraph{
+    text-decoration: none;
+    color: rgb(140, 140, 140);
+}
+.a-pragraph:hover{
+    text-decoration: underline;
+}
